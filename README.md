@@ -1,0 +1,1 @@
+This repository contains two Python projects that fetch, analyze, and log data from public APIs. Both projects demonstrate real-world data retrieval, JSON parsing, error handling, and CSV logging — the same patterns used in professional data science and software development.
